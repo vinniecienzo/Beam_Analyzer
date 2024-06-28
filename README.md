@@ -1,4 +1,4 @@
-This program is a WIP to analyze laser beams and their intensity distributions.
+This program is a WIP to analyze laser beams and their intensity distributions in MATLAB.
 This diagnostic was done with a 834nm laser beam and diagnostic has been done following the laser, post amplifier, 
 and post optical fiber to analyze the beams distribution in order maximize coupling to create a vortex beam.
 This project over all aim to analyze a light beam that possess angular momentum.
