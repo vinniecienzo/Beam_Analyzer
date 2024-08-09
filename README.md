@@ -1,4 +1,4 @@
-These programs are a result of my internship at PPPL studying Structured light, specificly OAM or vortex beams for a new plasma diagnotic technique in our apparatus.
+These programs are a result of my internship at PPPL studying Structured light, specificly OAM or vortex beams, for a new plasma diagnotic technique in our apparatus.
 These programs are used to analyze laser beams and their intensity distributions in MATLAB.
 
 Here is a short synopsis of each program:
