@@ -27,7 +27,7 @@ close all;
 % two SPP, I confirmed this works but the full theory hasn't been validated
 % due to experimental limitations. Further work on this code should include
 % higher order terms in a function form for multiple SPPs and LG
-% transformations to allow for a 
+% transformations to allow for a more precise numerical validation of the theory
 %
 % Therefore, I have included a draft function in the directory, but it hasnt been evaluated
 % yet.
@@ -42,10 +42,10 @@ close all;
 
 % if there seems to be an error likely it is in the experimental set-up
 % check there first (normally the pin hole), this is the whole point of
-% comparing the 
+% comparing the numerical simulation to the generated vortex beam.
 
 % if not there, it's likely cent_finders where circles are taken for the
-% nomarlized image and the simulation; try adjusting this.
+% nomarlized image and the simulation; try adjusting the diffraction filter strength, it bites of on small circles.
 
 % If not there check the weighted divergence and associated measurements
 % (this is how I discovered the theory, still not 100% veriefied)
